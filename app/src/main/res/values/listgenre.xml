@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name2">Spinner</string>
+    <string name="genre_prompt">Choisir un genre</string>
+
+    <string-array name="genre_arrays">
+        <item>Action</item>
+        <item>Aventure</item>
+        <item>Animation</item>
+        <item>Comedie</item>
+        <item>Crime</item>
+        <item>Documentaire</item>
+        <item>Drame</item>
+        <item>Familial</item>
+        <item>Fantastique</item>
+        <item>Histoire</item>
+        <item>Horreur</item>
+        <item>Musique</item>
+        <item>Mystere</item>
+        <item>Romance</item>
+        <item>Science-Fiction</item>
+        <item>Telefilm</item>
+        <item>Thriller</item>
+        <item>Guerre</item>
+        <item>Western</item>
+
+    </string-array>
+
+</resources>
